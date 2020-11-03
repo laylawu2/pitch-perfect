@@ -1,10 +1,8 @@
 //
-//  PlaybackViewController+Audio.swift
+//  PlaySoundsViewController+Audio.swift
 //  PitchPerfect
 //
-//  Created by layla wu on 11/2/20.
-//  Copyright © 2020 Wu, Layla. All rights reserved.
-//
+//  Copyright Â© 2016 Udacity. All rights reserved.
 
 import UIKit
 import AVFoundation
